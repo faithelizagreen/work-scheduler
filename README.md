@@ -35,4 +35,8 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
+<<<<<<< HEAD
 ![demo](./Assets/Images/workscheduledemo.gif)
+=======
+![demo](./Assets/images/workscheduledemo.gif)
+>>>>>>> 6d54063400ab33ff788fb751f94025b8f1b107a4
