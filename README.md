@@ -35,4 +35,4 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![demo](./Assets/images/05-third-party-apis-homework-demo.gif)
+![demo](./Assets/Images/workscheduledemo.gif)
